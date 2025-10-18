@@ -137,15 +137,6 @@ Ensure your environment matches or exceeds these versions for optimal performanc
 
 ---
 
-## 🤝 **Open Pull Requests**
-
-If you find any bug, feel free to contact me by opening a pull request on GitHub or via email at **maninastre@gmail.com**.
-
----
-
-## ⚠️ **Disclaimer**
-
-**This app is designed to demonstrate my skills in data modeling and analytics, showcasing how data-driven insights can assist in building my portfolio as a data analyst. It is not intended to provide financial advice or investment guidance. The predictions are for illustrative purposes only and should not be relied upon for making financial decisions.**
 
 
 
